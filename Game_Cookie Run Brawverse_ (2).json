@@ -1,0 +1,115 @@
+{
+  "name": "Cookie Run Brawverse ",
+  "menuBackgroundImage": "https://static.wikia.nocookie.net/cookierun/images/d/d4/CookieRun_Braverse_promo_art.png/revision/latest?cb=20240425203925",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://www.cookierun-kingdom.com/og-en.jpg"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "https://cookierunbraverse.com/en/cardList/card.json?_=1765852347568",
+    "cardBack": "https://www.devsisters.com/image/games/games-cookierun-poster-m.webp"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "Title",
+      "Cost",
+      "Card Type "
+    ],
+    "formats": [
+      {
+        "title": "Constructed ",
+        "gameplay": "Classic",
+        "customCategories": []
+      }
+    ]
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "If you dont like your hand return all cards to the deck and get a new one. ",
+        "startingHandSize": "6",
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": true
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "First ",
+        "drawPerTurn": "2"
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        "2"
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Support",
+          "Battle Area ",
+          "Stage "
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "section": "Battle Area ",
+              "style": false
+            },
+            {
+              "section": "Support",
+              "style": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [],
+        "autoPlayFromHand": {
+          "c10abb6a-b97d-4697-9d88-546ed02447c6": "Support"
+        },
+        "autoPlayFromStack": {
+          "b3a8f320-4b8b-4b85-8f10-87499c54cd87": "Battle Area "
+        },
+        "sectionsDict": {
+          "Support": {
+            "title": "Support",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Resources ",
+            "enterTapped": false,
+            "enterSpun": true,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Battle Area ": {
+            "title": "Battle Area ",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Battle Area",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
