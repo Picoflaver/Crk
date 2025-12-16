@@ -1,0 +1,115 @@
+{
+  "name": "Cookie Run Brawverse ",
+  "menuBackgroundImage": "https://static.wikia.nocookie.net/cookierun/images/d/d4/CookieRun_Braverse_promo_art.png/revision/latest?cb=20240425203925",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://www.cookierun-kingdom.com/og-en.jpg"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "https://cookierunbraverse.com/en/cardList/card.json?_=1765852347568",
+    "cardBack": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAQEhUQEBAVFRUVFRUVFRUVFRUVFRUWFRgWFxUVFhUYHSggGBolGxUVITEhJSkrLi4uFx8zODMuNygtLisBCgoKDg0OGhAQGislHx8rLS0vLy0tLy0tLS03LTAtLy0wLS03Ly01Ly0vListLS0tLS0uLS0tLS0tLS0tLS4tLf/AABEIAQkAvgMBIgACEQEDEQH/xAAcAAACAwEBAQEAAAAAAAAAAAACAwABBAYFBwj/xAA9EAACAQIEAwYDBwIFBAMAAAABAgADEQQSITEFQVEGE2FxgdEikaEHFDJSkrHwQsEVIzNTciQ0guFiY8L/xAAaAQADAQEBAQAAAAAAAAAAAAAAAQIDBAUG/8QAMBEAAgIBAgUCBQMEAwAAAAAAAAECEQMSIQQxQVFhEyIFcZGh8IGx0VLB4fEGIzL/2gAMAwEAAhEDEQA/APE+0Xt9isZiKlKjWelhqbsiLTYp3mUlTUdl1YEgkDYC2l5w7Yl/zt+owKh1PmZVus9aMVFUjP5jTWqDQu4PQswMhxL/AJ2/UfeLqVCxJJJJ1JJJJPUk7wZVDG/eKn52/UfeWa72/wBRuemZtNra38/lDw+LZFdFC2qAK11BIAIIyk/hNxuIgQGH94qfnb9R95O/qfnb9R94Mh6QoC/vFT87fqPvK+8VPzt+o+8qUFhQB9/U/O36j7whWf8A3H/UfeABLhRNhd9U/O36j7yd9U/O36j7wZcKCyGvU/O36j7yvvFT87fqPvIRAIhRQf3ip+dv1H3ltiH5O/6jFSGFAMOIf87/AKj+3zlGu/8AuN+poLkXJUWHIXvb15wIqAZ94f8AO/6jKOIf/cf9R94EqFANTF1VIK1agI2IdgR5EGfX/sn+0ioc+E4hWLBUz0qzm72BVTTdt2/ECCddDflPjUdht/T2kZIKSpjI51PmZRMupufMyhNCSS1/nOWvj9AJAIxktLtIJcAIBJlliHaMlsDLKtG2kBIuOuh0HUH02hRNipUa1O1tjcX0IPhr0Om01twxhT7zlmKDoWAuQDBJsTnGPM88SZoeSTJEXaFyQ8sEiAwTKtCtKIgMGWUNs1ja4F7G1zcgX62B08DJI42sb3Fza+h10N+fl1iAEDa5/vb0lGXKgAJjcNv6e0WT/P5vvGYbf09omBb7nzMqW+58zIBGBBDEoCXGBJAJYEICMRFEK0sLGIkaRlKVABYWWaEoxy0Jag2YSypGWmliDbae1U4mzUFw/JCW21I5C/gS0xKgGvT9+UiVLENbn8+o+U0UaMcj171yMRpHpBNOepUpEE6XA5+G4/cRV1PhF6aLjmdWkecacW1Oes+G8Ip6El4y48QnyPLKSnXp6dbTa9OZ6iTNo3jlszEQYxhAMk2BlQjIpsQbA2INjextyNtbeUQFKxG3MEagHQ6HfY+O4jMNv6e0UY/CEBtRfTxHTpEwAc2JPiYyrRemSrqVYWuCLHUAjTxBB9Yt9z5mWI0ARklSowDEYsBYxZSIkxqLNVOnF4enf+/gNrn5j5zbTWbQjZxZp0RVtFu99BDrHkJKCf1eg8+vp+9pqYRW2pjMRTCWAYN8NzbYMdxfw0iSANeWm/12jChS6kWOm41HtyhCmOVxubtzHKwtvvIbLimPes3dhb3UMA66a2ByG/kWH/jPOrLzE9HBVBm7trEEWF/zDVfqLf8AkYXEXFcs6oE55VzWtfx6DmT05yWEPa2jy1rldJqVgw0mWoPCBScqdI4zrmE4KXLZjqtOYqqz1FYML/OY8RTinHqgxTd0zzmES00uszvMGejB2LMgkMgklkjqNs2l7W5m55X1sOd4oiNw+/pEwAbc+ZkEttz5mVGIuSUZUYDQ3L+3W3P0jkmcR9KNET5G/DibBoJlw4ml+U64cjzMquVBU6OYgddvE9P7RrOAMoA0tZtb6b215k/QRuEoNyUFr2F/AEtp4jSNq4RNTmH4guhFhfnbc7b2A/aDklsJQlLfojDXuxOuYk3zG99ddfnDw4C3zgMLEWuRYkbgjpCxNNxUcMMrIbMPHXbqPHyimeCSonLOSlSYeGwlyCutraHqT/PlOmwfAzWYliFFtQo+BSLDUk8/ATxOFYiit+9D5rgqy2IBHVTvPovAWSogqACxA05fDpsfKTOWmNo5JKUp02cRx7gC02Ip3YagHxXQ+mo+s5erRKvkOmttZ9G7SUane96umUMutyCW66/KcvxLgNcL3ji4A1y6lQObdJkl1O6GRNU+Z4VM92+UkW2uNozELMjrrrofWbXN1B6iaR3TRU1pkpdzyK4md5rxI1mR5zyO/HyFGWokMsSTYsRmH39PaLEZQ39IMAH3PmZUj7nzMggJElCWZUBhrH0jECPpiUjOZ6WHnr0MCzfGfw6C5OxOoFuegOgnj4cbG48r68+Xp+06peMKcL3ORc4a4a3LX4tN31t5Tot0qV7/AE8nmZdp23Wz6Xb6I8pMWqNcC6jQA2HgLkfPzMs1RfOLDbNrfmDfqDca7fWY6jakqev99P51iLk+V7fz5SmkaQb0+DXfTS+upub3PXaLYi22txr87i3y+UImKdpT2Ryq5SstN513YzjvdkUKrAIb5GJHwk7qegJufPznIILEg6W/lo1W6aHXW+400t8/nJ0qSpjyRpn2QqHKlcpHM6G45WM8XtPxLDpTdTlLEWKggMb8hzG+85KhxuutBwp1DIAw3FwdPKyzw6zu34mBJYnlmvprfe2vPTSYrFpe5WKPqeDJxA/EbbGHR/APX94fEqWQZDctdWzAnLaxFsttTtrfla0Gnoolw7nTxEXFJPuefihMLz0MRMDzKfM6cQqXKkmZ0BCMw+/pFXjMPv6e0GADbnzMgMF9z5mQQAIygJcgEACWOpNEiMoqSbAEnXQC5sAST6AEykS1aNyNNdKrPOptNvD8HXxD91h6bVHtewsAB1ZiQFHmZcs0cUdUnSOR4XkelIeXFxpfw1sfA2gCw8fPeN41wbF4IK2KpBFY2VhUpuL72OUkjQTzBiAQSpuBqba2F7fuRJxcZhyrVCSYnwmSGzRuNSK7yYfvQOzA+snfjrG+Jx/1L6lR4WS6P6HpIRymiml559HF0xufoZ7PBuH4rGBmwlHOqHKzGolMBrXsMxuTY9IS4zh8cdU5qvmYZOFzTdRi/wBv3OmxXZtqWDWt+ZszfENBa1M/VtB1E4usGLa/zree3xLi2Iw7UqGLptS7slwrBaqNc2JUi6sDsR4kczOfq4+mdm110s3trM8XFQkrc4u266bdDTHw2SDrQ+S879Xa7/nY0Y5yTlvmF7X52EXU0FukyUsUpYXbS/TSPrtOiGSEk9LTJzRmpRUjJWMw1BNVUzNUmUjpxISZBLgmQdBI7Db+ntExuG39PaIBdTc+ZkEj7nzMoRgGJcoQhGASka3HlbSxuNbW1Fri2m/hLBlATtezHYejj6PfU8cykHK6HDfgewJXN3tmGosR8htOTieOxcMryWl3ouGJzWxyFNp9E+zSvlwmL7rL3+dit7a/5Y7q/hmzfWefxr7OXw9F8RTxYqimC7L3WQ5F1Yqe8YMQLmxte289jhP2elMtfDcTdc6hlYYYC6sARdTV6W0M8P4px/DcVw9RlW/VbfJnRw+L05NvqJ7OYnGN31bHU2rV8PTzYalUVQbvmzMoA1JKAX3Gtt56IwuHxrYLFYvDLTrE1M1Mi2fKrlQ6kXYCwYA7XtPE7XcP4hgmpYl8b3iBu7NVKQR6Yci96VyHHw6DNuANL3nrYzsFiazrWbijF11Q/dsuU+AFX4flPJlppT1qKldVfaqS5c9+9nZcDRRxxxS99icIKFTD4qkKDEWYjvEGhIvYg2NtDp0jO2GNNJA9Gmrd5i8P37n4ipQ0whseYCqAeV9N55mA7OYjiFGlX/xRtCGCHDKMlVDYhrVfiKsCL28ec8vspgMTxIYjNjnpOHTvU7hXUkCynNnUXuhBFv6R1goJSctaqD3Xu23W3fmr+Yew71eJFauK+Mi3ckHKz2uv5V1baeNwXE983EQazKXqqO9VWpsv+Qi5gG1Uiw36RGD7P4p61dV4qcyGmtRvuiWJK5gv+ruARf8A5CK4n2Tr0KOJrNxMkMj1Kv8A0qjPlS1r97pcADSYqEE9DyK2o1z8V0HcD3qXF/8ArDQAa9LCk5zvULPTsRbf8OviZl7P4p0pcORrqRQcEG4Iy01FrcpjTsli6hp114sSQnwN90UHI4Bsw73W9gbGeZW4JxBcfRSvjGIqJUFKvSpK2WwDMr0yQEvbe55eNnHHBpwjNbJ3z7O+nmxXA19u6iDhtQUj8FXELUsOrtnfTrnDT53UafRsb9ntdqRorxElCxfI+HFsxJJOZalxqTy5zwOAdhXxJrLUxQptQqmk2SkKqMQqtcOXU87WI009Pa+E/EOH4XHPXO9+f+zi4vB6taehx1QzO5n0LjH2bjD0Ktc44t3VN3ynDhcxUEhb96bXIAvY7z5289zhfiGHi79J3RzPBLGrYJgwpU6xFCOw+/pFCNw2/p7QYCn3PmZBI+58zJACxDWLEZcaaefj7cvlGAwCfVfs5dKHDqlWocqF6rs2uiqApOmv9JnylTO94B2wweHwlPDVKdRiqnOMiFSWYsd21GvSeB/yCMp4oQim99zr4NK3Z0fHKSJwmonD8q0jSJX8RzU31exY3uQTqes9jivDTXwowqVWo6UwXT8QCZSQtiLE5bXnz7jPboVwtGnSanSzp3hNsxRWBKqo0Gg6zfxL7QaXe0WoBygZu+BWxKsABl13B19J84+E4hKO29uW+/ar+h2+3udRj69PF1kwinOtBlrVzuAU/wBKmT+Yt8RHRDfeelQav39RnK9yUQUwCS2YFi7MLaXzDmfwzlsViKlqmL4cVqiulnUEBhUUWSqt+YGhU9BOSwHaTiNKshxDV2RWGdCmpXY6WFzz9JEeElki1FrZcnzvm/vt8ipRSO77J1u5xONwh2WsK9P/AI1xdreTD6zbwjBU8AmKqnQPWq4hj0W1wPofnOIxPa2guPTFBKqqaJpVQyqGOt1IXN1tvaF2o7b0MRh2oURUBqWViwUWS92tZjqbW9ZUuFyzkttpab/T8sTSOv7IVu7whxNdgpru+JqMxsAHPw3J2AQKJzXbFsG9Du8NjHqVa1VKeUYupVFnb4r085FuW1tRHp29wAQU+7qlQAoUohFha2mbwni8V7T4OriMLUSmUp0XZ3/y1DE2GWwU66iXhw5Vlc3Fre/G3Jf2HS7n0fiuAastGmlZqS06iO2T8TrT2S99AdL+U5/iPbegmNRRd6VJKgq1EBYIzlNdP6Vy2J/+XhPNP2g0PvAID9yadicvxBwxIIF9RbSYsB2pwGGr1alKm5WucznKAyHmoUmxUklt73PlM8XCzS98W9nXTnz37ipdzqeOYNsSv33AY10dVJXJUzUKgX+kpsDy/cQ+xNsPgFq1nCmpmxFR3IAvVNwWJ0GmWczxXt1hhSNHCU2XPcFsqoEDfiKqN2sT6zaO32AyhO7qlQAAppoRYbaZvCEsGd4tGl1f60un3Co9zF25r4MYYjDYt6ru6gqMXUqjLqWJplyLaDlznzlp1HbPjmHxZp/d6ZQJmzXRVJLWt+Em+31nLn+f2n1XwXE4YW5Xb7nDxclqSQBkkknsnIQCOw2/p7RQjcPv6e0AEvufMySPufMwbxAXLBg3kvABymHeJBhgzPPrcHo5l49Or3HvU+zzs1CmmIpM1dDUUAVbqgVyWb/L/wDrYWFyTbkbyk7N4hq7YdWQslMVS3xBcrKGRSGUMrnMoykA3MwJxOsCGD2K0e4UgAFaeUrYG2hsT8W+u810e0OLR3qpVyvUcVKhVVGdlBAzaarqfh2uSZ4rx/EOjfLr3v8Ag6bw+AuGYHELR+9UcQtO61agQNUWo6ULd4wsuWwzbE62M9ZcFxTEZ6f3onJ92DLnYa4oKVGg1yhrt0ANr2nP/wCJV+5GHDAUwGWwRA2VmzsmcDNlLakXtoI+nx7Fq5qLVsxfvCQq/i7s0trbZGIttrMZ8FxLbelXvVrzt9jT14LbUT/A6vcvXzrZcxAAqMzKrlC91Qqqlla2ci+VukWcGyURWetTTMpZKTZu8dA2QsAFKgXDWuRfKTBXilcUfuwYZLZfwrnyZs+TvLZsmbW14YxtZqS0yaZWmQFzU1ZwoYvlzlb5A39N/wCrYi86IYuNWyvn07GUp4H/AOqNLcBxJqYaixUNiVzJe/wWBJFSy3DBbGwvuI5Oz1dahU1qKZBQcMwqAXrtakuU086sTyZRYamYq3HsXUZKjVizKKuRiAWUVgVqAG2mgNhy5WhUONYrNUqLUXM+R3Y00JvRU5HF1IVgL2Isbm/jJ0fEX1f1fO/4+4m+H8fQvh3B69d6iZlTu37piwdrv8YCKtNWZjam5JAsApJiqOBrmhVxAKhKTBCDozElVbKLXIUul72tnErhXE8RRuKLAZiHuyq9nUNlqKWByuAzajXWGeIYoUjh+9/yipQpplIZs5Y6avm/q38Zejj7tXW3V8uoOXD8nRpxPZ/E06TVnZAqYeliDve1Viq0/wAP+pcG42HWJ47wSrg8oqupLXsAlUbAEkM6KrAZgPhJ3l43jmMqoadSqCp3GVQPxrUtoNsyL8rTHxLG1cQ2erkzXJJWmlMsTa5bIozHTnFCHxC1rb69/wBP7jvB0oxsYoxwXkSB4m/9okj+fzyM9vHq0LVzOR1booiVLkEoC4zD7+ntFw8Pv6e0GAl9z5mDLfc+ZgyQLklS4wCWMEUIYMYDlMK8UDCBjRI4S4AMIW95RDQSJHVrImo1bT0PP95eGXWLx1UZgt9AOXU7/T9pT2jZinc6E0EBGpIA3HjzNufSaMItg+muQ6+bKtvqYrRiSBlGtluTpyHUnz6TbQTKjnn8A6c7/wD5kwVmuWundfuLoKBcjbYQGM02UAXvbmBa9vM85kJmj22MV7pNgsYow3MC0hm6AeJjXMUZDLRUglSCIoKMwyksdtuZC8x1iodDf09oMBL7nzMGFU3PmZSKSQBudOkkCpYlES4wLhKYIliADFhCUsK0pCLvG0xEqJqorKRnkdI2U0yi55C52NvDzmPD0WbMbX0LNv13a2u5HzE0Y1sqBb6sbnyHj8piapawFtdeXMWsT0lTfQyxRbTfcN7AgC9gLXtbmfn9J6NOkQnxAgl13G4CsSfrMnC1GfMeWuu19gfLnOn41QpIMtNwwyK2g2JC636MLG3jFGSUlHq7+xlxGXR7aOdxDTMxjqkzuZUmaYlSAJgsZZiyZmzdIpjFMYTGBJNES8IHS1umut+enlr9BAhQAJmubnc6yYff09oJl4bf09omAFTc+Zgwqm58zBgBBClCXACQwsq0IRgGohGUsu0ZAdJLzdQTWZqInoUhZS3hc8tprBHJnmYcbVu50FlFra28frMaOOYuL+V9ri467esKpU1vodb2Ox87WgrY89fIWmcnbOqEdMUjfg2ZjcnU7tfw1Pym6rUJHhvb9pnoJZfF9B4KN/mRb0MKs83jtE5M/vmvz8/wIqmZmjqzqQLAgi+Y3uDrpYW0sPOZzM5M6IKkCTFEw2MWxmZqkCYMsyoiiwJYlCXACGXht/T2lVXvyA0A0Ftha/mecvCnX09omAFTc+Zgwqm58zBgAQhQVhxgQQ1EARgjEwgIQEpYxNI0Ztj6KzTijZcvUi/kImhvKxdXXysJqtonMo6pox4vDlDY22DaEMNQCNQbc9uW0mCpFmAv89hzJ8hqYykHe6rtpe+3hNdPDGkpva5OXTl+b9rfOQo27Oh5K9t7jVa5LcgMq+Q/n1mau807D6/OYaxmknsYR3kATBMhMFjMjoSFsYBlsYBMg1IZUkkQFyEyrwSYwIxhYXf09opjG4Xf09pLGSpufMwYdTc+Zg2jEWDCEEQgNL394CCkBg3H8/nlLBjENUwwYlTDBlITRroVLRtSir87GYQ0alaWpdGYODTtHo4DDZdNG+IabaeXO3947HEXIt0162Os80YiRsT4y1KKRP8A2cnyux1erfSZKjSnqRTtM5SsvHjojGAxlXlEyDooEwZcqIZJIdNypDKbEbGCBACjBMIwTEAJjMNv6e0WY3Db+ntExkqbnzMGFU3PmYMoRJYlSxEBckkkYF3l5oMgFyBe1za50A8z0gAeaQNFyxAKHFydTzlZ4sGS8dioZmhUkLEBVLEn8IuSfDSKl3gFEUjS+3h08JKlrm17XNr6m3K56yCVaAypAB68v7y7SRAQW/nI+Okga3IHQjW/MWvodxv6c5IJgBRlMRa1jmubm+lrCwtbe99b8/CQwTEBUdhhr6e0SI/Db+ntEM6T7Q+ylbhuKcMh7h3ZqFS3wFWJIS/J1GhHhfYzliw6ifrXtb/2lX/jPgzTDHmbW6A4MsOokzDqJ3ck09TwBwucdYRceE7qSHq+BHCZh1kLDrO7kh6ngDgy4ty87/S383lZx1neGSHq+BnCZx1lhx1ndSQ9XwBw+YdYWceHM/8Ar6fWdxJH6ngRw+YdZWYTuZIer4A4csPfX9ukAsOs7uUYep4A4XOOoglh1HzneSjF6vgZwRcdRBzDqJ30gi9TwBwWcdRPqH2S/Z82Mz4rF0yuHKZaVxY1GJU51v8A0AAi/PNpsYvgX/cU/wDkJ+gU2HlMc2Z1SA//2Q=="
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "Title",
+      "Cost",
+      "Card Type "
+    ],
+    "formats": [
+      {
+        "title": "Constructed ",
+        "gameplay": "Classic",
+        "customCategories": []
+      }
+    ]
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "If you dont like your hand return all cards to the deck and get a new one. ",
+        "startingHandSize": "6",
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": true
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "First ",
+        "drawPerTurn": "2"
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        "2"
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Support",
+          "Battle Area ",
+          "Stage "
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "section": "Battle Area ",
+              "style": false
+            },
+            {
+              "section": "Support",
+              "style": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [],
+        "autoPlayFromHand": {
+          "c10abb6a-b97d-4697-9d88-546ed02447c6": "Support"
+        },
+        "autoPlayFromStack": {
+          "b3a8f320-4b8b-4b85-8f10-87499c54cd87": "Battle Area "
+        },
+        "sectionsDict": {
+          "Support": {
+            "title": "Support",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Resources ",
+            "enterTapped": false,
+            "enterSpun": true,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Battle Area ": {
+            "title": "Battle Area ",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Battle Area",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
